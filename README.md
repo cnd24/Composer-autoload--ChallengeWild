@@ -4,4 +4,4 @@
 
 Challenge réalisé dans le cadre de la formation à la Wild Code School.
 
-Manipulation de Composer
+Manipulation de Composer et de l'autoload
